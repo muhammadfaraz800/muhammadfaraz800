@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭I'm creating Daraz price Tracker<br>🌱Currently learning Java and Node.js<br>⚡I am Cyber Security student at COMSATS😎 
+🔭I'm creating Daraz price Tracker<br>🌱Currently learning Java, Python, Bash, C++ and Kali Linux<br>⚡I am Cyber Security student at COMSATS😎 
 
 
 ## 🌐 Socials:
