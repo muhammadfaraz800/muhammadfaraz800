@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭I'm creating Daraz price Tracker<br>🌱Currently learning Java, Python, Bash, C++ and Kali Linux<br>⚡I am Cyber Security student at COMSATS😎 
+📟Building Automated bug bounty agent<br>🤖Currently Learning Red Teaming methodologies, AI Security and Cloud pentest<br>🔐Jr. pentester<br>Malware reversing, Digital forensics and Web Pentesting
 
 
 ## 🌐 Socials:
